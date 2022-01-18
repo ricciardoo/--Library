@@ -1,4 +1,4 @@
-'''
+#python三剑客练习
 #前两章节的练习
 name1 = 'daniel ricciARrdo'
 name2 = 'lAnce stroll'
@@ -152,5 +152,5 @@ del list[0]
 
 print(list)
 print('------------------------')
-'''
+
 #3.3组织列表
