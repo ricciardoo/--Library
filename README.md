@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ricciardoo
-- 👀 I’m interested in racing
+- 🏎️ I’m interested in racing
 - 🌱 I’m currently learning Python
